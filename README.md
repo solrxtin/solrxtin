@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @solrxtin
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning server-side scripting using node and express
-- 💞️ I’m looking to collaborate on projects that involve the use of MERN stacks, flask and django.
+- 👀 I’m interested in web3 
+- 🌱 I’m currently a server-side developer using node.js and express and also django but slowly transitioning from the web2 space to web3
+- 💞️ I’m looking to collaborate on projects that involve the use of MERN stacks, flask, django and solidity.
 - 📫 Kindly reach out to me on whatsapp +2349065652780
 
 <!---
