@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @solrxtin
-- 👀 I’m interested in web3 
+- 👀 I have keen interest in web3 
 - 🌱 I’m currently a full-stack and smart contract developer
 - 💞️ I’m looking to collaborate on projects that involve the use of MERN stacks, flask, Django, and solidity.
 - 📫 Kindly reach out to me on WhatsApp +2349065652780
